@@ -513,6 +513,21 @@ Export Shortlist Report
 
 ---
 
+# Security
+
+HireMind AI follows secure development practices to protect sensitive recruitment data and API credentials.
+
+Security measures implemented include:
+- `.env` based API key protection
+- `.gitignore` protection for sensitive files
+- Local LLM inference support
+- Human-in-the-loop verification
+- Secure file handling practices
+
+For detailed security guidelines and responsible AI considerations, refer to:
+
+[SECURITY.md](SECURITY.md)
+
 # Security Risk Mitigation
 
 ## Prompt Injection Mitigation
